@@ -1,0 +1,39 @@
+Physics 122-65B
+Sangkalpa Rai
+Chapter 1-3
+1.	In this chapter I learned about various quantities, such as vectors and scalars, their differences, and other natures.
+2.	I learned about units and conversion of units into different system.
+3.	Similarly, I learned about various ideas of velocity, such as instantaneous velocity, acceleration, speed along a straight line and to solve them.
+4.	I learned about free falling of object under the influence of gravity alone and to solve them.
+5.	Finally, I learned to use vectors and its different position and relate the velocities of moving objects seen from different point of reference and to solve them.
+
+Chapter 4,5 and 13
+1.	Here, I learned about Newton’s law of motion with various concepts of mass, weight, force, acceleration, and gravity.
+2.	I learned to find acceleration of object which can be determined by the objects net force and weight.
+3.	Similarly, I learned to calculate gravitational force that is acting between two bodies using Newton’s law of gravitation.
+4.	I learned to use different Newton’s law to solve different types of problem. As Newton’s first law states that in the first law, an object will not change its motion unless a force act on it. In the second law, the force on an object is equal to its mass times its acceleration. In the third law, when two objects interact, they apply forces to each other of equal magnitude and opposite direction. Therefore, using these concepts I learned to solve problem based on equilibrium objects or in accelerating objects.
+5.	I learned about friction, and its different types as kinetic friction and static friction.
+
+Chapter 6-8
+1.	In this chapter I learned about the concept of work and energy, A force on an object does work if the object undergoes a displacement, and how force affects work, similarly I learned about different types of energy such as kinetic and potential.
+2.	I learned about the work energy theorem and how work done by net force on a particle is equal the change of particle’s kinetic energy.
+3.	I learned about different types of potential energy such as gravitational potential energy being the energy obtained by a particle just by being on a gravitational field and elastic potential energy being energy stored in an elastic object.
+4.	Similarly, I learned about the conservation of energy and how the law of conservation of energy states that energy is never created or destroyed: it only changes from, by using this law I was able to solve various problems.
+5.	I also learned about various collision, as elastic collision being total kinetic energy is same after the collision as before and inelastic collision being total kinetic energy is less than before the collision, and how in any collision the total momentum is conserved.
+
+Chapter 9-12
+1.	I learned about rotating motion: rotation of a rigid body based on angular coordinate, angular velocity, and angular acceleration, because when a body is rotating all the particles rotate through the same angle during the same time interval.
+2.	Similarly, I learned about moment of inertia being the measurement of rotational inertia of a body and to calculate it.
+3.	I learned about the concept of torque which is the measure of force acting on an object causing the object to rotate.
+4.	I learned about the center of gravity which is an object’s weight as though it all acts at a single point.
+5.	I learned about the definition of density and pressure, their relationship in a fluid and how they are calculated.
+
+Chapter 17-20
+1.	I learned about specific heat capacity of a mass which is the quantity of heat required to increase the temperature of a mass of certain material by change in temperature.
+2.	I learned about the concept of mole and Avogadro’s number, as 1 mole of a substance contains as many elementary entities as there are atoms in 0.012 kg of carbon-12 and one mole of substance contains Avogadro’s number of molecules.
+3.	I learned about the first law of thermodynamics which is states that energy can neither be created or destroyed, it is always conserved and can be converted from one form to another.
+4.	I learned about concepts of heat engines as it is a device that can partly transform heat into work or mechanical energy.
+5.	Similarly, I learned about second law of thermodynamics as it says it is impossible for any process to have as its sole result the transfer of heat from a cooler to a hotter object.
+
+
+
