@@ -56,3 +56,15 @@ collection.add(
 )
 
 print(collection.count())
+
+questions = ["what happens when two objects crash into each other?","why do things fall to the ground"]
+results = collection.query(
+    query_texts = questions,
+    n_results = 3
+)
+
+for q, docs, dists, metas in zip(questions, results["documents"], results["distances"], results["metadatas"]):
+    print(f"\nQuestion: {q}")
+    print(f"Source: {metas[0]['source']}")
+    print(f"Distance: {dists[0]:.3f}")
+    print(f"Text: {docs[0][:200]}")
