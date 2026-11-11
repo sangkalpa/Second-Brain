@@ -1,4 +1,5 @@
 from pathlib import Path
+import chromadb
 
 def load_notes(folder):
     notes = []
@@ -45,3 +46,13 @@ print(len(ids), len(documents), len(metadatas))
 print(ids[0])
 print(documents[0])
 print(metadatas[0])
+
+client = chromadb.Client()
+collection = client.create_collection("notes")
+collection.add(
+    ids = ids,
+    documents = documents,
+    metadatas = metadatas
+)
+
+print(collection.count())
